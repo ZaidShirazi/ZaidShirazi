@@ -13,14 +13,14 @@
 
 
 ## 📂 Projects
-- [Recipe Website](https://github.com/ZaidShira/recipe-website-html) → My first beginner-level static website using HTML.  
+- [Recipe Website](https://github.com/ZaidShirazi/Recipe-Website) → My first beginner-level static website using HTML.  
 - Saylani Practice (coming soon)  
 
 
 ## 📫 Connect with Me
 - 📍 Location: Karachi, Pakistan  
 - ✉️ Email: shirazizaid123@gmail.com  
-- 💼 LinkedIn: (add later when ready)  
+- 💼 LinkedIn: Coming soon  
 
 
 ⭐️ *I believe in consistency — small steps every day lead to big achievements.*
