@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Zaid Ullah Sherazi  
 
-<!--
-**ZaidShirazi/ZaidShirazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at University  
+💻 Currently learning **MERN Stack** @ Saylani Mass IT Training Program  
+🚀 Passionate about **Web & App Development**  
+📚 Exploring HTML, CSS, JavaScript, and moving toward Full-Stack Development  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills (Learning in Progress)
+- HTML5, CSS3, JavaScript  
+- Git & GitHub  
+- Web Development Fundamentals  
+
+
+## 📂 Projects
+- [Recipe Website](https://github.com/ZaidShira/recipe-website-html) → My first beginner-level static website using HTML.  
+- Saylani Practice (coming soon)  
+
+
+## 📫 Connect with Me
+- 📍 Location: Karachi, Pakistan  
+- ✉️ Email: shirazizaid123@gmail.com  
+- 💼 LinkedIn: (add later when ready)  
+
+
+⭐️ *I believe in consistency — small steps every day lead to big achievements.*
