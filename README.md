@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Zaid Ullah Sherazi  
+# 👋 Hi, I'm Muhammad Zaid Ullah Shirazi  
 
 🎓 Software Engineering student at University  
 💻 Currently learning **MERN Stack** @ Saylani Mass IT Training Program  
