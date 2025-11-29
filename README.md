@@ -13,8 +13,7 @@
 
 
 ## 📂 Projects
-- [Recipe Website](https://github.com/ZaidShirazi/Recipe-Website) → My first beginner-level static website using HTML.  
-- Saylani HTML Assignment: Periodic Table https://github.com/ZaidShirazi/SMIT → A periodic table implementation using HTML tables with page linking.  
+All SMIT Assignments -> https://github.com/ZaidShirazi/SMIT-ASSIGNMENTS  
 
 
 ## 📫 Connect with Me
