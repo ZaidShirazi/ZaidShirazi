@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Zaid Ullah Shirazi  
 
-🎓 Software Engineering student 
+🎓 Software Engineering student <br>
 💻 Currently learning **MERN Stack** @ Saylani Mass IT Training Program  
 🚀 Passionate about **Web & App Development**  
 📚 Exploring HTML, CSS, JavaScript, and moving toward Full-Stack Development  
