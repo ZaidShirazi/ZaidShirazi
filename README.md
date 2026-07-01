@@ -7,8 +7,9 @@
 
 
 ## 🔧 Skills (Learning in Progress)
-- HTML5, CSS3, JavaScript  
-- Git & GitHub  
+- HTML5, CSS3, JavaScript 
+- Firebase (CRUD) 
+- Git & GitHub (Advanced) 
 - Web Development Fundamentals  
 
 
